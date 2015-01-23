@@ -1,3 +1,4 @@
+![Polygon2Triangle](/images/banner.png)
 Polygon2Triangle
 ===========================
 
